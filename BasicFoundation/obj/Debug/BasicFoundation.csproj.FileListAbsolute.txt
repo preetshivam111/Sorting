@@ -1,0 +1,6 @@
+C:\Users\Shivam\source\repos\BasicFoundation\BasicFoundation\obj\Debug\BasicFoundation.csproj.CoreCompileInputs.cache
+C:\Users\Shivam\source\repos\BasicFoundation\BasicFoundation\bin\Debug\BasicFoundation.dll.config
+C:\Users\Shivam\source\repos\BasicFoundation\BasicFoundation\bin\Debug\BasicFoundation.dll
+C:\Users\Shivam\source\repos\BasicFoundation\BasicFoundation\bin\Debug\BasicFoundation.pdb
+C:\Users\Shivam\source\repos\BasicFoundation\BasicFoundation\obj\Debug\BasicFoundation.dll
+C:\Users\Shivam\source\repos\BasicFoundation\BasicFoundation\obj\Debug\BasicFoundation.pdb
